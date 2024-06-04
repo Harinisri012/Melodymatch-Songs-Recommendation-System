@@ -1,4 +1,5 @@
-# Songs-Recommendation-System
+# Melody Match
+## Songs-Recommendation-System
 
 It is a interactive recommendation system where user can ask for recommendation many times untill they want to exit the program.
 First the system asks where the user want recommendation based on the songs they specify or recommendations based on the mood they specify or coorelating both.
