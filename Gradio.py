@@ -1,3 +1,6 @@
+# Install pip install gradio==4.19.0 and run this file
+
+
 import gradio as gr
 from functools import partial
 from sklearn.metrics.pairwise import cosine_similarity
