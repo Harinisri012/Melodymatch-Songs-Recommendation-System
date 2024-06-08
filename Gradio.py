@@ -1,4 +1,4 @@
-# Install pip install gradio==4.19.0 and run this file
+# pip install gradio==4.19.0 and run this file
 
 
 import gradio as gr
