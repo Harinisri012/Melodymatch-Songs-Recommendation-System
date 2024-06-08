@@ -29,3 +29,6 @@ as attributes.
 
 The link to download this Download this dataset -
 https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs/data
+
+## Gradio implementation
+![screenshot](ScreenShot.png)
