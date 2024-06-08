@@ -96,4 +96,5 @@ with gr.Blocks() as demo:
                 outputs="dataframe"
                 )
 
-demo.launch()
+if __name__ == "__main__":
+    demo.launch()
